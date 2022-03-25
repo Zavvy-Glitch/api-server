@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2",
+    "supertest": "^6.2.2"
+  },
+  "name": "api-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zavvy-Glitch/api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zavvy-Glitch/api-server/issues"
+  },
+  "homepage": "https://github.com/Zavvy-Glitch/api-server#readme"
+}
